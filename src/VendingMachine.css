@@ -1,0 +1,11 @@
+.VendingMachine {
+  width: 300px;
+  height: 500px;
+  background-color: gray;
+  margin-top: 70px;
+}
+
+.VendingMachine a {
+  display: block;
+  margin: 20px;
+}

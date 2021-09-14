@@ -1,0 +1,14 @@
+.Navbar {
+  top: 0%;
+  position: absolute;
+}
+
+.Navbar a {
+  margin: 20px;
+  color: black;
+}
+
+.Navbar a.active {
+  margin: 20px;
+  color: blue;
+}
